@@ -16,10 +16,9 @@ Looking at the correlation between a variety of inequality indicators and percep
 The data is a combination of data from the World Inequality Database and Transparency International. The World Inequality Database (WID) is an open database with the aim of providing the most extensive dataset on Inequality. WID will provide eleven variables regarding inequality and a few related national characteristics such as GDP per capita. The Inequality data is based on ratios of percentage national income go to a percent subclass of the economy. Transparency International measures the Corruption Perceptions Index index which will be the comparative measure in our data analysis. Both datasets were collected for the purposes of providing open data on these issues, and both relied on Neo-liberal institutions, such as World Bank and IMF for their data. The data in our dataset will only include 25 developed countries over the past ~20 years, 1998-2019, even though both datasets include data from almost every country for the past 50 years.
 
 ## Team Members
-
-- Person 1: I'm Joshua Milliken, an economics major and secretly a 2.5 year.
-- Person 2: Austin Wong, I'm in Van
-- Person 3: Seiya Iwama
+- Person 1: Seiya Iwama
+(- Person 1: I'm Joshua Milliken, an economics major and secretly a 2.5 year.)
+(- Person 2: Austin Wong, I'm in Van)
 
 ## Images
 
